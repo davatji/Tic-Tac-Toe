@@ -5,6 +5,6 @@ Note that the code provided might not be the most efficient, as few improvements
 3. In impossible mode, the AI can be programmed to prioritize the center position, as it is the most strategic position in initial state, with note that it wouldn't cause the AI to lose
 4. Migrating the code to Java whose GUI features are richer while maintaining the high level language nature.
 5. Optimization on the Computer move (the process of recursion)
-6. Possibility of extending the Tic Tac Toe grid to 4x4, 5x5, and so on (optimization precedence is necessary)
+6. Possibility of extending the Tic Tac Toe grid to 4x4, 5x5, and so on (optimization precedence is necessary, as the complexity of the algorithm is, on rough estimate, O((n^2)!) as the grid expands)
 
 Any change suggestions are gladly accepted. 
